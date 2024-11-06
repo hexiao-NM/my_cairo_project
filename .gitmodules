@@ -1,0 +1,3 @@
+[submodule "hello_cairo"]
+	path = hello_cairo
+	url = https://github.com/hexiao-NM/hello_cairo.git
